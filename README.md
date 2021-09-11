@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### Research Intern at Wipro and AI/ML enthusiast.
 
-#### I am a full stack web developer and a competitive coding fanatic. I have 1780 rating on Codechef and 1151 rating on Codeforces. 
+#### I have 1780 rating on Codechef and 1151 rating on Codeforces. 
 
 #### My skillset comprises of Django, JavaScript, CSS3, HTML5 and ReactJs(Beginner). I have spent my time learning new skills and perfecting the ones I have. 
 
